@@ -1,15 +1,15 @@
-8106cb2e63eb2b4071f449228e23fc19 *DESCRIPTION
+38e6069a2a2660a61bf58894bf429c64 *DESCRIPTION
 4b4a14e83c28c9cec630df9ec7a11600 *NAMESPACE
 890a65d1ae330831e7750353b6cefd10 *R/HTvar.R
 66a1172948f94a6fdca2caec3770fabd *R/brewer.R
 9d9cabe4eb4117231d84850f780955c5 *R/jip_MonteCarlo.R
-1359ea8179c66abc2e645552cdd34759 *R/jip_approximations.R
+a6b8563a546ddc4859e9a4572abd5bde *R/jip_approximations.R
 99a148b5f531f3d68a88573a3b8d20d7 *R/maxEntropy.R
 7b2ba88223a3ba27ff2e574d65885c11 *R/package-jipApprox.R
 40380241934fb95451d662594761f0c3 *R/sampford.R
 80c7383f60bf8555c847a15024c187fc *R/tille.R
 a6cc512753d5425c0d3b8af90c630941 *R/utils.R
-08c89b888e8a62e4964189f4f38ac67a *README.md
+a943485f6372b230df5bd082a1b0c765 *README.md
 8e4e1e70b94132caa8e4b143c59adb4f *man/HTvar.Rd
 2353954dcef0253f3588911c09e741ec *man/brewer.Rd
 d19ec32f2d2e8a032a3bffef384db3a6 *man/excludeSSU.Rd
@@ -22,7 +22,7 @@ dd0be52b03d96eff60141a929139bd9a *man/jipApprox.Rd
 6745df0b27e283285e9e76a87e573e8a *man/jip_HartleyRao.Rd
 4fcbc5e8383e93d6142333e64241a274 *man/jip_MonteCarlo.Rd
 b89c019303dd1e8cd92e76db1399066a *man/jip_Tille.Rd
-e7cff75aa7bbffb98efe10fd04281557 *man/jip_approx.Rd
+631f8bdf15b9a31d37327c1deec81e44 *man/jip_approx.Rd
 a53147aea5e8aea60431db6d3d221924 *man/maxEntropy.Rd
 b7630b02d911136c7e1b6a39fb8cc1ad *man/pre_CPS.Rd
 5b917e9d06b9ad6fd952f598fc9da225 *man/pre_tille.Rd
